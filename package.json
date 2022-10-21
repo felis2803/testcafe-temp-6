@@ -1,0 +1,15 @@
+{
+  "name": "testcafe-temp-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "author": "Afanasenko Ilya",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "2.0.1"
+  }
+}
